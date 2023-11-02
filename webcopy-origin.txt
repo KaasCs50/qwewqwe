@@ -1,0 +1,140 @@
+Uri: http://5mja.ninjhacks.com/menu/
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\index.htm
+Content Type: text/html
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole.html
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole.html
+Content Type: text/html
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/copy.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\copy.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/error.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\error.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/expand.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\expand.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/in.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\in.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/link.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\link.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/icons/search.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\icons\search.svg
+Content Type: image/svg+xml
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/main.css
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\main.css
+Content Type: text/css
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/main.js
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\main.js
+Content Type: application/javascript
+
+Uri: http://5mja.ninjhacks.com/menu/jsconsole_files/polyfill.min.js
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\jsconsole_files\polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://5mja.ninjhacks.com/menu/main.js
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\main.js
+Content Type: application/javascript
+
+Uri: http://5mja.ninjhacks.com/menu/style.css
+File Name: C:\fivemhja\5mja.ninjhacks.com\menu\style.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.eot?
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.ttf
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-brands-400.woff2
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.eot?
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.ttf
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-regular-400.woff2
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.eot?
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.svg
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.ttf
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/webfonts/fa-solid-900.woff2
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\font-awesome\5.15.1\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css
+File Name: C:\fivemhja\5mja.ninjhacks.com\ajax\libs\meyer-reset\2.0\reset.min.css
+Content Type: text/css
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\fivemhja\5mja.ninjhacks.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
+File Name: C:\fivemhja\5mja.ninjhacks.com\ui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
