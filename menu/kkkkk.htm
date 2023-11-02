@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<input type="number" id="amountInput" placeholder="Enter Amount">
+<button id="postButton">Send POST Request</button>
+
+<script>
+$(document).ready(function() {
+  // Add a click event listener to the button
+  $('#postButton').click(function() {
+    // Get the amount from the input field
+    var amount = $('#amountInput').val();
+
+    if (amount === '') {
+      alert('Please enter an amount before sending the request.');
+      return;
+    }
+
+    // Define the data to be sent in the POST request
+    var postData = { amount: amount };
+
+    // Send a POST request
+    $.post('http://esx_fameroulette/win', postData, function(data, status) {
+      // Handle the response from the server here if needed
+      console.log('POST Request Status: ' + status);
+      console.log('Server Response: ' + data);
+    })
+    .fail(function(xhr, status, error) {
+      console.error('POST Request Failed:', status, error);
+    });
+  });
+});
+</script>
+
+</body>
+</html>
